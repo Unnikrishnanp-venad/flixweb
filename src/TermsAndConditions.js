@@ -20,7 +20,7 @@ const TermsAndConditions = () => (
     </div>
     <main className="terms-content">
       <h2>FLIX – Terms and Conditions</h2>
-      <p><b>Effective Date:</b> [Insert Date]</p>
+      <p><b>Effective Date:</b> [01-July-2025]</p>
       <p>Welcome to FLIX! These Terms and Conditions outline the rules and regulations for using our mobile application and related services. By downloading, accessing, or using the FLIX app, you agree to comply with and be legally bound by the terms described below. If you do not agree to these terms, please do not use the app.</p>
       <hr />
       <h3>1. Use of the App</h3>
@@ -95,7 +95,7 @@ const TermsAndConditions = () => (
           <li>You can review how your data is collected, used, and stored by visiting our Privacy Policy page.</li>
         </ul>
       </ul>
-      <p>If you have privacy concerns or requests (e.g., data deletion), you may contact us anytime at <a href="mailto:flixsolutionsprivatelimited@gmail.com">support@flixapp.com</a>.</p>
+      <p>If you have privacy concerns or requests (e.g., data deletion), you may contact us anytime at <a href="mailto:flixsolutionsprivatelimited@gmail.com">flixsolutionsprivatelimited@gmail.com</a>.</p>
       <hr />
       <h3>8. Third-Party Services</h3>
       <ul>
